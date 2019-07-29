@@ -88,7 +88,7 @@ programmer_hash[:yukihiro_matsumoto] = {
       ["LISP", "C"]
     }
 end
-
+def adding_matz
 def changing_alan
 	programmer_hash = 
  		{
